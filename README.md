@@ -1,8 +1,5 @@
 # Rotem Arie
-# Resume
-
-Rotem Arie
-Brandeis University | CS & Chem | Class of 24'
-Resume link
+# Brandeis University | CS & Chem | Class of 24'
+# Resume link
 
 
