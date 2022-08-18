@@ -1,4 +1,5 @@
-# rotemarie.github.io
+# Rotem Arie
+# Resume
 
 Rotem Arie
 Brandeis University | CS & Chem | Class of 24'
