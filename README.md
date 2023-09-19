@@ -14,9 +14,9 @@ Brandeis University | CS, Math & Chem | Class of 24'
 
 Projects:
 
-[The Closet Project][jekyll-organization] /
-[CHEM3D](https://github.com/jekyll/jekyll) / 
-[HJ Football Club][jekyll-organization]
+[The Closet Project][jekyll-organization] |
+[CHEM3D](https://github.com/jekyll/jekyll) | 
+[HJ Football Club][https://github.com/rotemarie/HJFC]
 
 
 
