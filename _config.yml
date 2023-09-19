@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-title: My personal Git 
 author:
   name: rotemarie
   email: rotem29@gmail.com
@@ -9,8 +8,6 @@ description: >
   
 
 # Build settings
-
-theme: minima
 
 plugins:
   - jekyll-feed
