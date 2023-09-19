@@ -1,13 +1,5 @@
 # Rotem Arie
-# Brandeis University | CS, Math & Chem | Class of 24'
-# projects: 
-# The Closet Project | Chem3D | HJ Football Club
 
----
-layout: page
-title: About
-permalink: /about/
----
 
 Rotem Arie
 
