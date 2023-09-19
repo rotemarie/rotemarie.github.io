@@ -14,8 +14,8 @@ Brandeis University | CS, Math & Chem | Class of 24'
 
 Projects:
 
-[The Closet Project](https://github.com/rotemarie/The-Closet-Project.git) |
-[CHEM3D](https://github.com/rotemarie/CHEM3D.git) | 
+[The Closet Project](https://github.com/rotemarie/The-Closet-Project.git) /
+[CHEM3D](https://github.com/rotemarie/CHEM3D.git) / 
 [HJ Football Club](https://github.com/rotemarie/HJFC)
 
 
