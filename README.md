@@ -1,10 +1,6 @@
 # Rotem Arie
 
----
-#layout: page
-#title: About
-#permalink: /about/
----
+
 
 Rotem Arie
 
