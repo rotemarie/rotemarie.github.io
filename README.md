@@ -1,9 +1,9 @@
 # Rotem Arie
 
 ---
-layout: page
-title: About
-permalink: /about/
+#layout: page
+#title: About
+#permalink: /about/
 ---
 
 Rotem Arie
