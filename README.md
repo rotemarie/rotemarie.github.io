@@ -16,7 +16,7 @@ Projects:
 
 [The Closet Project](https://github.com/rotemarie/The-Closet-Project.git) /
 [CHEM3D](https://github.com/rotemarie/CHEM3D.git) / 
-[HJ Football Club](https://github.com/rotemarie/HJFC)
+[HJ Football Club](https://github.com/rotemarie/HJFC) /
 
 
 
