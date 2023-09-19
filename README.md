@@ -9,7 +9,8 @@ Projects: [The Closet Project](https://github.com/rotemarie/The-Closet-Project.g
 [CHEM3D](https://github.com/rotemarie/CHEM3D.git) | 
 [HJ Football Club](https://github.com/rotemarie/HJFC) 
 
-Skills: Java | Python | HTML | CSS | JavaScript | MySQL | React Native | GIS | Blender
+Skills: 
+Java | Python | HTML | CSS | JavaScript | MySQL | React Native | GIS | Blender
 
 
 
