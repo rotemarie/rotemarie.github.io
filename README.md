@@ -1,9 +1,9 @@
 # Rotem Arie
 
 
-Brandeis University | CS, Math, Chem | Class of 24'
+Brandeis University | CS, Math, Chem | May 24'
 
-[Resume](https://drive.google.com/file/d/1C6Xt1cynHBZ2QXZP7MAQBwBBS_RLnkw0/view?usp=drive_link)
+[Resume](https://drive.google.com/file/d/1jkzhg8fluuRXQ3tuZxhQuaAx3_JxrPrp/view?usp=sharing)
 
 Projects: [The Closet Project](https://github.com/rotemarie/The-Closet-Project.git) |
 [CHEM3D](https://github.com/rotemarie/CHEM3D.git) | 
