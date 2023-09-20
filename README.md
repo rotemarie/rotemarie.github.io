@@ -3,7 +3,7 @@
 
 Brandeis University | CS, Math, Chem | May 24'
 
-[Resume](https://drive.google.com/file/d/1jkzhg8fluuRXQ3tuZxhQuaAx3_JxrPrp/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/10AqLQgdCv2VwijizlfMAlHIOwhuEFhAX/view?usp=sharing)
 
 Projects: [The Closet Project](https://github.com/rotemarie/The-Closet-Project.git) |
 [CHEM3D](https://github.com/rotemarie/CHEM3D.git) | 
