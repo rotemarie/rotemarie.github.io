@@ -3,7 +3,7 @@
 
 Brandeis University | CS, Math, Chem | May 24'
 
-[Resume](https://drive.google.com/file/d/10AqLQgdCv2VwijizlfMAlHIOwhuEFhAX/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1kBF87xYiURdrRhW6o5NalGy0lw-OuOqh/view?usp=sharing)
 
 Projects: 
 
