@@ -15,7 +15,7 @@ Full-Stack projects:
 - [The Closet Project](https://github.com/rotemarie/The-Closet-Project.git)   
   A website that collects and stores data about daily outfits and presents statistics about an individual's wardrobe using HTML, CSS, Python, and JavaScript. Was created to assist with budgeting and over-consumption of clothes. 
   
-- [CHEM3D](https://github.com/rotemarie/CHEM3D.git) 
+- [CHEM3D](https://github.com/rotemarie/CHEM3D.git)   
   An app that provides visualization of chemical structures and formulas using React Native. Was created to help beginning chemistry students understand molecules in the 3D space. 
 
  Machine Learning and Data Science and Analysis projects: 
