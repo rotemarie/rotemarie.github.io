@@ -7,7 +7,7 @@ Brandeis University | CS, Math, Chem | May 24'
 
 Projects: 
 
-Full-Stack projects:
+Full-Stack projects:  
 [The Closet Project](https://github.com/rotemarie/The-Closet-Project.git)   
   A website that collects and stores data about daily outfits and presents statistics about an individual's wardrobe using HTML, CSS, Python, and JavaScript. Was created in order to assist with budgeting and over-consumption of clothes. |
   
