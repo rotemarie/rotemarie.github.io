@@ -3,7 +3,7 @@
 
 Brandeis University | CS, Math, Chem | May '24
 
-[Resume](https://drive.google.com/file/d/1cRxOuTQvyF6W2D0Mi8NVFmuAb86P5Vyg/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1ph9hgThWzlVxW8-7auO9NoMeEzGvW-pt/view?usp=sharing)
 
 **Skills:**   
 Java | Python | HTML | CSS | JavaScript | React Native | GIS | Blender
