@@ -6,16 +6,17 @@ Brandeis University | CS, Math, Chem | May '24
 [Resume](https://drive.google.com/file/d/1q048hntPXjZk4CYZH3sYxN3c7QnvBv05/view?usp=sharing)
 
 **Skills:**   
-Programming languages: Java | Python | JavaScript | LaTex | Matlab
-Frontend: HTML | CSS | React Native
-Databases: SQL
-DevOps: AWS
-Machine Learning: NumPy | Pandas | Matplotlib | Plotly | SciPy | Scikit-learn | Streamlit
-Software: GIS | Blender
+
+<u>Programming languages:</u> Java | Python | JavaScript | LaTex | Matlab
+<u>Frontend:</u> HTML | CSS | React Native
+<u>Databases:</u> SQL
+<u>DevOps:</u> AWS
+<u>Machine Learning:</u> NumPy | Pandas | Matplotlib | Plotly | SciPy | Scikit-learn | Streamlit
+<u>Software:</u> GIS | Blender
 
 **Projects:** 
 
-<u>Full-Stack projects:</u>  
+<u>Programming & Full-Stack projects:</u>  
 
 - [The Closet Project](https://github.com/rotemarie/The-Closet-Project.git)   
   A website that collects and stores data about daily outfits and presents statistics about an individual's wardrobe using HTML, CSS, Python, and JavaScript. Was created to assist with budgeting and over-consumption of clothes. 
