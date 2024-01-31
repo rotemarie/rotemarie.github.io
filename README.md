@@ -6,7 +6,12 @@ Brandeis University | CS, Math, Chem | May '24
 [Resume](https://drive.google.com/file/d/1bfMEwSt8TzBrSDLqtgyu8fgOkN30-jJE/view?usp=sharing)
 
 **Skills:**   
-Java | Python | HTML | CSS | JavaScript | React Native | SQL | AWS | GIS | Blender
+Programming languages: Java | Python | JavaScript | LaTex | Matlab
+Frontend: HTML | CSS | React Native
+Databases: SQL
+DevOps: AWS
+Machine Learning: NumPy | Pandas | Matplotlib | Plotly | SciPy | Scikit-learn | Streamlit
+Software: GIS | Blender
 
 **Projects:** 
 
