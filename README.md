@@ -3,7 +3,7 @@
 
 Brandeis University | CS, Math, Chem | May '24
 
-[Resume](https://drive.google.com/file/d/1bfMEwSt8TzBrSDLqtgyu8fgOkN30-jJE/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1q048hntPXjZk4CYZH3sYxN3c7QnvBv05/view?usp=sharing)
 
 **Skills:**   
 Programming languages: Java | Python | JavaScript | LaTex | Matlab
