@@ -7,11 +7,11 @@ Brandeis University | CS, Math, Chem | May '24
 
 **Skills:**   
 
-<u>Programming languages:</u> Java | Python | JavaScript | LaTex | Matlab
-<u>Frontend:</u> HTML | CSS | React Native
-<u>Databases:</u> SQL
-<u>DevOps:</u> AWS
-<u>Machine Learning:</u> NumPy | Pandas | Matplotlib | Plotly | SciPy | Scikit-learn | Streamlit
+<u>Programming languages:</u> Java | Python | JavaScript | LaTex | Matlab  
+<u>Frontend:</u> HTML | CSS | React Native  
+<u>Databases:</u> SQL  
+<u>DevOps:</u> AWS  
+<u>Machine Learning:</u> NumPy | Pandas | Matplotlib | Plotly | SciPy | Scikit-learn | Streamlit  
 <u>Software:</u> GIS | Blender
 
 **Projects:** 
