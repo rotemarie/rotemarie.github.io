@@ -3,7 +3,7 @@
 
 Brandeis University | CS, Math, Chem | May '24
 
-[Resume](https://drive.google.com/file/d/1c59XLFzztf__l9k2KKiQMbaLfxqHYRif/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1LTkXEkkr3VmnxmjfnZscUICLpyqvcPMh/view?usp=sharing)
 
 **Skills:**   
 
@@ -31,7 +31,10 @@ Brandeis University | CS, Math, Chem | May '24
   A website that collects and stores data about daily outfits and presents statistics about an individual's wardrobe using HTML, CSS, Python, SQL, MySQL, and JavaScript. Was created to assist with budgeting and over-consumption of clothes. 
   
 - [CHEM3D](https://github.com/rotemarie/CHEM3D.git)   
-  An app that provides visualization of chemical structures and formulas using React Native. Was created to help beginning chemistry students understand molecules in the 3D space. 
+  An app that provides visualization of chemical structures and formulas using React Native. Was created to help beginning chemistry students understand molecules in the 3D space.
+
+  -[Gieseking Lab](https://github.com/rotemarie/Gieseking-Lab)
+  Automation of ab initio quantum mechanical ground state data for silver nanoclusters collection.
 
 
 
