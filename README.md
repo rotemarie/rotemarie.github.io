@@ -8,9 +8,9 @@ Brandeis University | CS, Math, Chem | May '24
 **Skills:**   
 
 <u>Programming languages:</u> Java | Python | JavaScript | LaTex | Matlab  
-<u>Frontend:</u> HTML | CSS | React Native | React 
-<u>Databases:</u> SQL | MySQL
-<u>DevOps:</u> AWS  
+<u>Frontend:</u> HTML | CSS | React Native | React   
+<u>Databases:</u> SQL | MySQL  
+<u>DevOps:</u> AWS   
 <u>Machine Learning:</u> NumPy | Pandas | Matplotlib | Plotly | SciPy | Scikit-learn | Streamlit  
 <u>Software:</u> GIS | Blender
 
@@ -33,7 +33,7 @@ Brandeis University | CS, Math, Chem | May '24
 - [CHEM3D](https://github.com/rotemarie/CHEM3D.git)   
   An app that provides visualization of chemical structures and formulas using React Native. Was created to help beginning chemistry students understand molecules in the 3D space.
 
-  -[Gieseking Lab](https://github.com/rotemarie/Gieseking-Lab)
+- [Gieseking Lab](https://github.com/rotemarie/Gieseking-Lab)
   Automation of ab initio quantum mechanical ground state data for silver nanoclusters collection.
 
 
